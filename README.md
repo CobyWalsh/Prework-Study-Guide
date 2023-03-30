@@ -1,22 +1,27 @@
-# prework-study-guide
-Study guide for U of U bootcamp pre work
+# Prework Study Guide Webpage
 
-1. WE made sure that our main branch was synced up to the cloud (git pull)
-    - if any errors, use git restore . to undo any file changes
-    -alternatively, we can use git revert < commit hash> to go back in time
+## Description
 
-2. If our main branch is synced, use git checkout -b <new branch name> to switch to a new branch 
-    -Work on our code, make any updates, and do a git push
-    -git add <files we want to add>      -----  "." or "-A" to add all files
-    -I can do a git status to check what is staged to be committed
-    -git commit -m "<Write a detailed message>"
-    -git push
-        -- you must copy the set upstream code git suggests to link your branch up
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-3. If we push up, we must go to the cloud and create a pull request,
-    -If approved, be sure to merge it and delete the branch on the cloud
+- The movivation for this website is to help other new programmers find useful information about HTML, CSS, JavaScript, and Git.
+- I built this project to make it easier for people new to coding to find information about HTML, CSS, JavaScript, and Git.
+- This website solves the problem of finding information about entry level topics mentioned above.
+- Throughout building this website I learned the basics of HTML, CSS, JavaScript, Git, creating a professional README and License.
 
-4. On your local computer, git checkout main
-    -Perform a git pull to make sure you are synced to the cloud
-    -Delete the branch locally
-    -Before touching your main (you can use git status), repeat step 1# Prework-Study-Guide
+## Installation
+
+N/A
+
+## Usage
+
+Provide instructions and examples for use. Include screenshots as needed. This website can be used by students to study through the duration of their bootcamp. Each section of the website contains notes about each topic they will learn about in their pre-course work, including HTML, CSS, JavaScript and Git.I the student opens the DevTool console you will see the JavaScript running and it will prompt you with a topic to learn first.
+
+## Credits
+
+N/A
+
+## License
+
+MIT
+
